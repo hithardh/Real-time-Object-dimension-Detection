@@ -11,4 +11,5 @@ The code flow will be like this
 • The contour with maximum area is our object whose dimensions has to be found
 • Compute the bounding box of the contour and draw the outline of bounding box
 • Compute the size of the object by using pixel per metric ratio and put them on the screen
+
 For this code the user must enter a parameter (the distance between the camera and object)
