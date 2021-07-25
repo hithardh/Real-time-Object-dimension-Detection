@@ -2,6 +2,7 @@
 Finding the dimensions of the given object
 
 The code flow will be like this
+
 • Import all the libraries required
 • Finding the pixel per metric ratio
 • Open the camera, convert into grayscale and blur it slightly
